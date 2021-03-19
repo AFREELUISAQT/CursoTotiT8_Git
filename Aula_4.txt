@@ -1,0 +1,120 @@
+    1  code .
+    2  code .
+    3  pwd
+    4  cd ~
+    5  ls
+    6  ls man
+    7  man ls
+    8  ls
+    9  cd Documents/
+   10  pwd
+   11  cd ~
+   12  pwd
+   13  ls
+   14  pwd
+   15  mkdir Prueba Git
+   16  ls
+   17  rmv Git
+   18  cd Prueba/
+   19  git status
+   20  git init
+   21  git branch -M main
+   22  git remote add origin https://github.com/AFREELUISAQT/otro.git
+   23  git commit -m "first commit"
+   24  git add .
+   25  git commit -m "first commit"
+   26  ls
+   27  ls
+   28  ls
+   29  cd Meus\ Vídeos/
+   30  ls
+   31  cd ~
+   32  ls
+   33  cd..
+   34  cd ..
+   35  ls
+   36  pwd
+   37  ls
+   38  ls ..
+   39  cd ..
+   40  ls
+   41  pwd
+   42  pwd
+   43  ls Users/
+   44  cd Users/
+   45  cd AfreeLuisaQT/
+   46  ls
+   47  touch "prueba con mensaje adentro"
+   48  ls
+   49  clear
+   50  git log
+   51  git log --pretty=oneline
+   52  git log --stat
+   53  git log -p
+   54  git log --pretty=oneline
+   55  git log --pretty=oneline
+   56  history
+   57  git log --pretty=oneline -2
+   58  cd Desktop/
+   59  ls
+   60  cd CursoTotiT8_Git/
+   61  ls
+   62  git log --pretty=oneline -2
+   63  git log --pretty=oneline -3
+   64  git log --pretty=oneline -4
+   65  git log --pretty=oneline -10
+   66  git log --since=2.minutes
+   67  git log --since=20.minutes
+   68  git log --since=1.weeks
+   69  git log --autor='AfreeLluisaQT'
+   70  git log --autor='AfreeLuisaQT'
+   71  git log --author='AfreeLuisaQT'
+   72  git status
+   73  touch teste
+   74  git add teste
+   75  git status
+   76  git commit -m 'Commit de teste'
+   77  git log
+   78  git reset --soft HEAD~
+   79  git log
+   80  git status
+   81  git commit -m 'Commit de teste'
+   82  git log
+   83  git reset --hard HEAD~
+   84  git log
+   85  git status
+   86  git log --pretty=online
+   87  git log --pretty=oneline
+   88  git checkout HEAD~~
+   89  git status
+   90  git log
+   91  ls
+   92  git checkout master
+   93  git log
+   94  git ckeckout HEAD~2
+   95  git checkout HEAD~2
+   96  git log
+   97  git checkout HEAD~
+   98  git checkout master
+   99  clear
+  100  mkdir .vscode
+  101  cd .vscode/
+  102  touch conf.txt
+  103  ls
+  104  cd..
+  105  cd ..
+  106  ls
+  107  ls .vscode/
+  108  ls
+  109  ls -a
+  110  git status
+  111  echo '.vscode/' > .gitignore
+  112  git status
+  113  touch pessoal.conf
+  114  git status
+  115  echo 'pessoal.conf' >> .gitignore
+  116  git status
+  117  git add .gitignore
+  118  gt commit -m 'Adicionado arquivo .gitignore'
+  119  git commit -m 'Adicionado arquivo .gitignore'
+  120  history > Aula_4.txt
