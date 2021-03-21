@@ -1,0 +1,72 @@
+    1  code .
+    2  code .
+    3  pwd
+    4  cd ~
+    5  ls
+    6  ls man
+    7  man ls
+    8  ls
+    9  cd Documents/
+   10  pwd
+   11  cd ~
+   12  pwd
+   13  ls
+   14  pwd
+   15  mkdir Prueba Git
+   16  ls
+   17  rmv Git
+   18  cd Prueba/
+   19  git status
+   20  git init
+   21  git branch -M main
+   22  git remote add origin https://github.com/AFREELUISAQT/otro.git
+   23  git commit -m "first commit"
+   24  git add .
+   25  git commit -m "first commit"
+   26  ls
+   27  ls
+   28  ls
+   29  cd Meus\ Vídeos/
+   30  ls
+   31  cd ~
+   32  ls
+   33  cd..
+   34  cd ..
+   35  ls
+   36  pwd
+   37  ls
+   38  ls ..
+   39  cd ..
+   40  ls
+   41  pwd
+   42  pwd
+   43  ls Users/
+   44  cd Users/
+   45  cd AfreeLuisaQT/
+   46  ls
+   47  touch "prueba con mensaje adentro"
+   48  ls
+   49  clear
+   50  git log
+   51  git log --pretty=oneline
+   52  git log --stat
+   53  git log -p
+   54  git log --pretty=oneline
+   55  git log --pretty=oneline
+   56  git log --pretty=oneline -2
+   57  git log -2
+   58  git log -p -2
+   59  git log -p -2
+   60  git status
+   61  git log
+   62  clear
+   63  git checkout feature
+   64  git log --pretty=oneline --graph
+   65  git merge master
+   66  git log
+   67  git log --pretty=oneline --graph
+   68  git reset --hard HEAD~
+   69  git log --pretty=oneline --graph
+   70  git rebase master
+   71  git log --pretty=oneline --graph
+   72  history > Aula_5.txt
